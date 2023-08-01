@@ -1,6 +1,6 @@
 # Restaurant app
 
-This is a react e-commerce project that sell foods stuffs
+This is an e-commerce project that sell foods stuffs, acts like an online restaurant
 
 ## Available Scripts
 
